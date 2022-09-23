@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Premise
+
+A friend of mine asked me to build an LinkedIn clone to showcase to her students.  Of course, it was an honor to do this. :-)
+
 ## Prerequsites
 
 Please ensure that:
