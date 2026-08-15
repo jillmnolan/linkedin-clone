@@ -1047,12 +1047,11 @@
     "@babel/plugin-transform-typescript" "^7.18.6"
 
 "@babel/runtime-corejs3@^7.10.2":
-  version "7.19.1"
-  resolved "https://registry.yarnpkg.com/@babel/runtime-corejs3/-/runtime-corejs3-7.19.1.tgz#f0cbbe7edda7c4109cd253bb1dee99aba4594ad9"
-  integrity sha512-j2vJGnkopRzH+ykJ8h68wrHnEUmtK//E723jjixiAl/PPf6FhqY/vYRcMVlNydRKQjQsTsYEjpx+DZMIvnGk/g==
+  version "7.29.7"
+  resolved "https://registry.yarnpkg.com/@babel/runtime-corejs3/-/runtime-corejs3-7.29.7.tgz#2030fda34f3433647818660093751fb1ca2debf0"
+  integrity sha512-ppj9ouYku+RX0ljtgZd+KMO5mkM2bCqg8H2PYAFWnLsHEIKIdRojqbJ2i3eVHrisuxy7nOFCmngTDdWtUCdXUQ==
   dependencies:
-    core-js-pure "^3.25.1"
-    regenerator-runtime "^0.13.4"
+    core-js-pure "^3.48.0"
 
 "@babel/runtime@^7.1.2", "@babel/runtime@^7.10.2", "@babel/runtime@^7.12.1", "@babel/runtime@^7.12.13", "@babel/runtime@^7.12.5", "@babel/runtime@^7.16.3", "@babel/runtime@^7.18.9", "@babel/runtime@^7.5.5", "@babel/runtime@^7.8.4", "@babel/runtime@^7.9.2":
   version "7.19.0"
@@ -3675,10 +3674,10 @@ core-js-compat@^3.25.1:
   dependencies:
     browserslist "^4.21.4"
 
-core-js-pure@^3.25.1:
-  version "3.25.2"
-  resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.25.2.tgz#44a4fd873bdd4fecf6ca11512bcefedbe87e744a"
-  integrity sha512-ItD7YpW1cUB4jaqFLZXe1AXkyqIxz6GqPnsDV4uF4hVcWh/WAGIqSqw5p0/WdsILM0Xht9s3Koyw05R3K6RtiA==
+core-js-pure@^3.48.0:
+  version "3.50.0"
+  resolved "https://registry.yarnpkg.com/core-js-pure/-/core-js-pure-3.50.0.tgz#263313e83606cb527005885da5be36c0a28f65ef"
+  integrity sha512-6GP3Pxz4IKyWjAfa747vIu/jilB5z29JWROLqH/b+pXVcpgh6tM06ZIBwSuglgVqzDYURhOK6oEzTrG0bCHitA==
 
 core-js@^2.4.0:
   version "2.6.12"
